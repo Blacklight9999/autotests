@@ -5,7 +5,7 @@ import jdk.nashorn.internal.parser.Scanner;
 //import java.io.InputStream ??
 
 
-public class PrimitiveConvertor {
+public class void main PrimitiveConvertor {
     float float1 = 2.2f;
     int int1 = 12;
     char char1 = 22;
