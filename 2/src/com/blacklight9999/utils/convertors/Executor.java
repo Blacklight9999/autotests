@@ -5,7 +5,5 @@ public class Executor {
         PrimitiveConvertor.charToInt();
         PrimitiveConvertor.intToChar();
         PrimitiveConvertor.floatToChar();
-
     }
-
 }
