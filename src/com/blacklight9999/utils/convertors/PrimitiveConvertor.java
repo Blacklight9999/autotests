@@ -5,7 +5,6 @@ import jdk.nashorn.internal.parser.Scanner;
 //import java.io.InputStream ??
 
 
-
 public class PrimitiveConvertor {
     float float1 = 2.2f;
     int int1 = 12;
